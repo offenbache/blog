@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacques Offenbache"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Profile.jpg"
   bio              : "Photographer & Programmer"
   location         : "Chicago"
   email            : "offenbache@gmail.com"
